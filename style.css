@@ -17,6 +17,15 @@ body {
     display: flex;
 }
 
+.red {
+
+    padding-right: 80px;
+}
+
 .flex {
     display: flex;
 }
+
+    .green {
+        padding-bottom: 80px;
+    }
